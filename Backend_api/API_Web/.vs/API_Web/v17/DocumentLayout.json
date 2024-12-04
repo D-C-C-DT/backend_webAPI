@@ -1,0 +1,1226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\efkhoa_hocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\efkhoa_hocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\efdanhmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\efdanhmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\efchuongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\efchuongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\efbaihocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\efbaihocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\khoa_hoccontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\khoa_hoccontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\chuongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\chuongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\khoa_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\khoa_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\bai_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\bai_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\baihocmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\baihocmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\chuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\chuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\chuongmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\chuongmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241204034750_removeTongTG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241204034750_removeTongTG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\ikhoahocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\ikhoahocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\idanhmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\idanhmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\ibaihocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\ibaihocrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\khoa_hocvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\khoa_hocvn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\signinmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\signinmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\khoa_hocmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\khoa_hocmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\bai_tap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\bai_tap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241204034131_removeTongChuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241204034131_removeTongChuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\danhmucmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\danhmucmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\assignrolemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\assignrolemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\dbcontext\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\dbcontext\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\danh_muc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\danh_muc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\signupmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\signupmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\cau_tra_loi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\cau_tra_loi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\danh_gia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\danh_gia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\user_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\user_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\ichuongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\ichuongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241201051737_user_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241201051737_user_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241201050047_chuonganduser_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241201050047_chuonganduser_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241202163531_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241202163531_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\accontrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\accontrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\updateusermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\updateusermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\helpers\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\helpers\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\appilcationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\appilcationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201051017_User_KhoaHoc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241201051017_User_KhoaHoc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201045853_CHuongAndUser_KhoaHoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241201045853_CHuongAndUser_KhoaHoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\data\\user_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\data\\user_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241129060550_avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241129060550_avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241118161342_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241118161342_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114151921_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241114151921_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114031315_DanhMuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241114031315_DanhMuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114031137_DanhMuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241114031137_DanhMuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113200346_Imgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113200346_Imgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113195329_Imgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113195329_Imgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113195103_Imgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113195103_Imgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175325_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113175325_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175158_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113175158_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175005_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113175005_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113174859_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_Web\\Migrations\\20241113174859_Img.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\api_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\api_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241118184804_adduse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241118184804_adduse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241125221956_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241125221956_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241128015638_avataruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241128015638_avataruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241129062058_avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241129062058_avatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241203145515_tongchuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241203145515_tongchuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241203144144_notnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241203144144_notnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|c:\\users\\asus\\onedrive\\m\u00E1y t\u00EDnh\\web_app\\api_web\\api_web\\migrations\\20241203132410_bai_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E66A0-6D62-446B-A019-AB57C9659C7D}|API_Web\\API_Web.csproj|solutionrelative:api_web\\migrations\\20241203132410_bai_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFChuongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFChuongRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\EFChuongRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFChuongRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\EFChuongRepository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:32:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFBaiHocRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFBaiHocRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\EFBaiHocRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFBaiHocRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\EFBaiHocRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:32:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Khoa_HocControllers.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\Khoa_HocControllers.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\Khoa_HocControllers.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\Khoa_HocControllers.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\Khoa_HocControllers.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:56:56.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaiHocController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\BaiHocController.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\BaiHocController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\BaiHocController.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\BaiHocController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwDsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:40:02.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFDanhMucRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFDanhMucRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\EFDanhMucRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFDanhMucRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\EFDanhMucRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:50:55.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFKhoa_HocRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFKhoa_HocRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\EFKhoa_HocRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\EFKhoa_HocRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\EFKhoa_HocRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:07:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\DanhMucController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\DanhMucController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:59:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChuongController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\ChuongController.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\ChuongController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\ChuongController.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\ChuongController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:14:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Khoa_Hoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Khoa_Hoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Khoa_Hoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Khoa_Hoc.cs",
+              "RelativeToolTip": "API_Web\\Data\\Khoa_Hoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:47:02.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai_Hoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Bai_Hoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Bai_Hoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Bai_Hoc.cs",
+              "RelativeToolTip": "API_Web\\Data\\Bai_Hoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:43:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaiHocModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\BaiHocModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\BaiHocModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\BaiHocModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\BaiHocModels.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwCwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:26:51.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Chuong.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Chuong.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Chuong.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Chuong.cs",
+              "RelativeToolTip": "API_Web\\Data\\Chuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:43:41.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChuongModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\ChuongModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\ChuongModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\ChuongModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\ChuongModels.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:19:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241204034750_removeTongTG.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241204034750_removeTongTG.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241204034750_removeTongTG.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241204034750_removeTongTG.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241204034750_removeTongTG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:47:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IKhoaHocRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IKhoaHocRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\IKhoaHocRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IKhoaHocRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\IKhoaHocRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:28:33.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDanhMucRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IDanhMucRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\IDanhMucRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IDanhMucRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\IDanhMucRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:46:20.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBaiHocRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IBaiHocRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\IBaiHocRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IBaiHocRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\IBaiHocRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:30:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Khoa_HocVN.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\Khoa_HocVN.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\Khoa_HocVN.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\Khoa_HocVN.cs",
+              "RelativeToolTip": "API_Web\\Models\\Khoa_HocVN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:03:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignInModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\SignInModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\SignInModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\SignInModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\SignInModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:38:21.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Khoa_HocModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\Khoa_HocModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\Khoa_HocModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\Khoa_HocModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\Khoa_HocModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:02:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bai_Tap.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Bai_Tap.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Bai_Tap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Bai_Tap.cs",
+              "RelativeToolTip": "API_Web\\Data\\Bai_Tap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:27:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IAccountRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:30:57.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241204034131_removeTongChuong.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241204034131_removeTongChuong.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241204034131_removeTongChuong.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241204034131_removeTongChuong.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241204034131_removeTongChuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:41:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DanhMucModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\DanhMucModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\DanhMucModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\DanhMucModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\DanhMucModels.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:08:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssignRoleModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\AssignRoleModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\AssignRoleModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\AssignRoleModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\AssignRoleModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:22:17.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\DbContext\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "API_Web\\DbContext\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\DbContext\\MyDbContext.cs",
+              "RelativeToolTip": "API_Web\\DbContext\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:15:20.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Program.cs",
+              "RelativeDocumentMoniker": "API_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Program.cs",
+              "RelativeToolTip": "API_Web\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:10:35.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Danh_Muc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Danh_Muc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Danh_Muc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Danh_Muc.cs",
+              "RelativeToolTip": "API_Web\\Data\\Danh_Muc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:25:24.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241203145515_TongChuong.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241203145515_TongChuong.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241203145515_TongChuong.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241203145515_TongChuong.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241203145515_TongChuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:55:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User_KhoaHoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\User_KhoaHoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\User_KhoaHoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\User_KhoaHoc.cs",
+              "RelativeToolTip": "API_Web\\Data\\User_KhoaHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:26:07.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Danh_Gia.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Danh_Gia.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Danh_Gia.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Danh_Gia.cs",
+              "RelativeToolTip": "API_Web\\Data\\Danh_Gia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:26:57.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cau_Tra_Loi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Cau_Tra_Loi.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\Cau_Tra_Loi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\Cau_Tra_Loi.cs",
+              "RelativeToolTip": "API_Web\\Data\\Cau_Tra_Loi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:27:30.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUpModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\SignUpModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\SignUpModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\SignUpModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\SignUpModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:50:02.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241203144144_NOTNULL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241203144144_NOTNULL.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241203144144_NOTNULL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241203144144_NOTNULL.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241203144144_NOTNULL.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:41:44.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:10:15.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\Admin\\UserController.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\Admin\\UserController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\Admin\\UserController.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\Admin\\UserController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAIwHUAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:20:01.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IChuongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IChuongRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\IChuongRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IChuongRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\IChuongRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:29:27.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "API_Web\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "API_Web\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:39:13.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20241203132410_Bai_Hoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241203132410_Bai_Hoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241203132410_Bai_Hoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241203132410_Bai_Hoc.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241203132410_Bai_Hoc.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:24:10.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241201051737_User_KhoaHoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201051737_User_KhoaHoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241201051737_User_KhoaHoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201051737_User_KhoaHoc.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241201051737_User_KhoaHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:17:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241201050047_CHuongAndUser_KhoaHoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201050047_CHuongAndUser_KhoaHoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241201050047_CHuongAndUser_KhoaHoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201050047_CHuongAndUser_KhoaHoc.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241201050047_CHuongAndUser_KhoaHoc.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAowCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:00:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241202163531_New.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241202163531_New.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241202163531_New.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241202163531_New.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241202163531_New.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:35:31.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccontRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\AccontRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\AccontRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\AccontRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\AccontRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:33:27.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateUserModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\UpdateUserModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\UpdateUserModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\UpdateUserModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\UpdateUserModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:03:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserModels.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\UserModels.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\UserModels.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\UserModels.cs",
+              "RelativeToolTip": "API_Web\\Models\\UserModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:59:48.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "API_Web\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "API_Web\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:48:07.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Helpers\\AppRole.cs",
+              "RelativeDocumentMoniker": "API_Web\\Helpers\\AppRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Helpers\\AppRole.cs",
+              "RelativeToolTip": "API_Web\\Helpers\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:27:05.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppilcationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\AppilcationUser.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\AppilcationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\AppilcationUser.cs",
+              "RelativeToolTip": "API_Web\\Data\\AppilcationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:44:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241201051017_User_KhoaHoc2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201051017_User_KhoaHoc2.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241201051017_User_KhoaHoc2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201051017_User_KhoaHoc2.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241201051017_User_KhoaHoc2.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:10:17.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241201045853_CHuongAndUser_KhoaHoc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201045853_CHuongAndUser_KhoaHoc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241201045853_CHuongAndUser_KhoaHoc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241201045853_CHuongAndUser_KhoaHoc.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241201045853_CHuongAndUser_KhoaHoc.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:58:53.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "User_Role.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\User_Role.cs",
+              "RelativeDocumentMoniker": "API_Web\\Data\\User_Role.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Data\\User_Role.cs",
+              "RelativeToolTip": "API_Web\\Data\\User_Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:44:36.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:14:13.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "API_Web\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "API_Web\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:12:52.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20241129062058_avatar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241129062058_avatar.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241129062058_avatar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241129062058_avatar.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241129062058_avatar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:20:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241129060550_avatar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241129060550_avatar.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241129060550_avatar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241129060550_avatar.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241129060550_avatar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:05:50.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241118161342_addUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241118161342_addUser.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241118161342_addUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241118161342_addUser.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241118161342_addUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:13:42.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20241128015638_avatarUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241128015638_avatarUser.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241128015638_avatarUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241128015638_avatarUser.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241128015638_avatarUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:56:38.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_Web\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\WeatherForecast.cs",
+              "RelativeToolTip": "API_Web\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:09:56.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\appsettings.json",
+              "RelativeToolTip": "API_Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T07:53:52.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20241125221956_identity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241125221956_identity.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241125221956_identity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241125221956_identity.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241125221956_identity.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:19:56.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T22:10:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20241118184804_addUse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241118184804_addUse.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241118184804_addUse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241118184804_addUse.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241118184804_addUse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:48:04.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241114151921_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114151921_Init.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241114151921_Init.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114151921_Init.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241114151921_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:19:21.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241114031315_DanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114031315_DanhMuc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241114031315_DanhMuc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114031315_DanhMuc.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241114031315_DanhMuc.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:13:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241114031137_DanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114031137_DanhMuc.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241114031137_DanhMuc.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241114031137_DanhMuc.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241114031137_DanhMuc.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:11:37.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20241113195329_Imgs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113195329_Imgs.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113195329_Imgs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113195329_Imgs.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113195329_Imgs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:53:29.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20241113200346_Imgs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113200346_Imgs.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113200346_Imgs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113200346_Imgs.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113200346_Imgs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:03:46.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20241113195103_Imgs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113195103_Imgs.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113195103_Imgs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113195103_Imgs.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113195103_Imgs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:51:03.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241113175325_Img.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175325_Img.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113175325_Img.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175325_Img.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113175325_Img.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:53:25.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20241113175158_Img.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175158_Img.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113175158_Img.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175158_Img.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113175158_Img.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:51:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20241113175005_Img.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175005_Img.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113175005_Img.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113175005_Img.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113175005_Img.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:50:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241113174859_Img.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113174859_Img.cs",
+              "RelativeDocumentMoniker": "API_Web\\Migrations\\20241113174859_Img.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\Migrations\\20241113174859_Img.cs",
+              "RelativeToolTip": "API_Web\\Migrations\\20241113174859_Img.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:48:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "API_Web.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\API_Web.csproj",
+              "RelativeDocumentMoniker": "API_Web\\API_Web.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\web_app\\API_Web\\API_Web\\API_Web.csproj",
+              "RelativeToolTip": "API_Web\\API_Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T17:44:51.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
